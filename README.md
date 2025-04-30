@@ -1,5 +1,5 @@
 # nspar-ncst
-Neural-based Pose Estimation and 3D Reconstruction for Non-Cooperative Space Target
+NeRF-based Simultaneous Pose Estimation and 3D Reconstruction for Non-Cooperative Space Target
 
 This is official achieve version of our paper.
 
